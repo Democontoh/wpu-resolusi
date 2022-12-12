@@ -2,5 +2,5 @@ WPU RESOLUSI
 - Konsisten belajar pemrograman web tiap hari
 - Aktif di forum/komunitas
 - Membuat aplikasi web basis database noSql
-- Membuat merc shop
 - Kolaborasi dengan expert
+= Membuat vlog
